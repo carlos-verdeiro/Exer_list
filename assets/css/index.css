@@ -1,0 +1,34 @@
+
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+
+    & section{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+
+        & a{
+            
+            width: 30% !important;
+            text-align: center !important;
+            font-size: 25px !important;
+            margin-top: 20px !important;
+            transition: all 0.2s ease-in-out !important;
+
+        }
+
+        & a:hover{
+            transition: all 0.2s ease-in-out !important;
+            font-size: 35px !important;
+            width: 35% !important;
+        }
+    }
+}
