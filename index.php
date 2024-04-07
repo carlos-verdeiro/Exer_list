@@ -52,10 +52,10 @@
         <section class="lista">
             <a href="pages/lerNum.php" class="btn btn-primary">Ler 5 números</a>
             <a href="pages/pop.php" class="btn btn-primary">População país</a>
-            <a href="pages/pII.php" class="btn btn-primary">Pares e Ímpares com intervalo</a>
+            <a href="pages/pI.php" class="btn btn-primary">Pares e Ímpares com intervalo</a>
             <a href="pages/tab.php" class="btn btn-primary">Tabuada</a>
             <a href="pages/eleva.php" class="btn btn-primary">Elevação</a>
-            <a href="pages/pI.php" class="btn btn-primary">Pares e Ímpares</a>
+            <a href="pages/pII.php" class="btn btn-primary">Pares e Ímpares</a>
 
         </section>
     </main>
