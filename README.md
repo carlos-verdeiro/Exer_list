@@ -18,12 +18,6 @@ Este repositório contém uma coleção de exercícios resolvidos em PHP.
 
 7. **Contagem de números pares e ímpares**: Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares.
 
-## Como executar
-
-1. Clone o repositório para sua máquina local.
-2. Certifique-se de ter o PHP instalado em seu sistema.
-3. Navegue até o diretório do projeto e execute os programas PHP conforme necessário.
-
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com novos exercícios ou melhorias nos existentes. Basta fazer um fork deste repositório, adicionar suas alterações e enviar um pull request. Toda contribuição é bem-vinda!
